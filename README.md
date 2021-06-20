@@ -12,7 +12,7 @@ Contains a few helper scripts for converting the original bmp to an integer arra
 # Setup
 1. Download CoSpaceRobot Simulator (https://cospacerobot.org/download/cospace-rescue-download)
 2. Download g++ Compiler Toolchain for Windows 32bit (https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/threads-posix/dwarf/)
-3. Collect Map data, use helper scripts to generate mapData.hpp
+3. Obtain original map.bmp from CsBot application folder; use helper scripts to generate mapData.hpp
 4. Copy mapData.hpp to Main Program folder 
 5. Make a few more changes to the program based on the map
 6. Run Build.bat
