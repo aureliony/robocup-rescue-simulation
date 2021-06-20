@@ -16,6 +16,7 @@ Contains a few helper scripts for converting the original bmp to an integer arra
 4. Copy mapData.hpp to Main Program folder 
 5. Make a few more changes to the program based on the map
 6. Run Build.bat
+7. Select the dll for red/blue robot and run the Simulator 
 
 # Videos
 https://www.youtube.com/playlist?list=PLIiXUtD1ITQgM67tc36gdv7UKwYlbLlcg
