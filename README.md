@@ -1,6 +1,3 @@
-# NYCasuals
-The original source code used in the RoboCup Montreal 2018 Junior CoSpace Rescue competition. Our team achieved first place internationally in RoboCup 2016, 2017 and 2018.
-
 # The Competition
 
 # Project Layout
