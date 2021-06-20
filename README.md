@@ -20,5 +20,8 @@ Contains a few helper scripts for converting the original bmp to an integer arra
 # Videos
 https://www.youtube.com/playlist?list=PLIiXUtD1ITQgM67tc36gdv7UKwYlbLlcg
 
+# Future Development
+The project can be further improved, by replacing A* with more advanced algorithms such as Any-Angle Path Finding (Theta*, Anya), and implementation of odometry in World 1.
+
 # Disclaimer
 The code was written under heavy time constraints during the competition and thus does not follow common coding standards and best practices.
