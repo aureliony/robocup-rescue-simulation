@@ -2,6 +2,7 @@
 In CoSpace Rescue Challenge, teams have to develop and program appropriate strategies for autonomous robots to navigate through the competition environmentto collect objects.
 
 # Project Layout
+Refer to the TDP for more information.
 ## Main Program
 Contains the C++ code for the robot.
 
