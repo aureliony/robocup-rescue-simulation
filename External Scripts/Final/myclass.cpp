@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include <x86intrin.h>
+#include <intrin.h>
 using namespace std;
 #include "myRandint.hpp"
 
