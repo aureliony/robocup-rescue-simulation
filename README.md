@@ -1,5 +1,5 @@
 # The Competition
-In CoSpace Rescue Challenge, teams have to develop and program appropriate strategies for autonomous robots to navigate through the competition environmentto collect objects.
+In the CoSpace Rescue Challenge, teams develop and program appropriate strategies for autonomous robots to navigate through a virtual environment, collecting objects and avoiding obstacles along the way.
 
 # Project Layout
 Refer to the TDP for more information.
@@ -22,10 +22,14 @@ Contains a few helper scripts for converting the original bmp to an integer arra
 https://www.youtube.com/playlist?list=PLIiXUtD1ITQgM67tc36gdv7UKwYlbLlcg
 
 # Future Development
-The project can be further improved, by replacing A* with more advanced algorithms such as Any-Angle Path Finding (Theta*, Anya), and implementation of odometry in World 1.
+The project can be further improved. Posible ideas are listed below.
+- Replace A* with more advanced algorithms such as Any-Angle Path Finding (Theta*, Anya)
+- Implementation of odometry in World 1
+- Varying ultrasonic values based on wheel speeds
+- Revamp the entire codebase to improve ease of reading
 
 # Discord
-You can join our [Discord Server](https://discord.gg/sagtrca) to discuss technical issues and future development.
+You can join our [Discord Server](https://discord.gg/sagtrca) to discuss anything related to CoSpace Rescue.
 
 # Disclaimer
 The code was written under heavy time constraints during the competition and thus does not follow common coding standards and best practices.
