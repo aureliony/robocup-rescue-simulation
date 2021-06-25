@@ -24,9 +24,10 @@ https://www.youtube.com/playlist?list=PLIiXUtD1ITQgM67tc36gdv7UKwYlbLlcg
 # Future Development
 The project can be further improved. Posible ideas are listed below.
 - Replace A* with more advanced algorithms such as Any-Angle Path Finding (Theta*, Anya)
-- Implementation of odometry in World 1
+- More advanced Odometry, in both world 1 and 2
 - Varying ultrasonic values based on wheel speeds
 - Revamp the entire codebase to improve ease of reading
+- Neural network (requires a complete project overhaul)
 
 # Discord
 You can join our [Discord Server](https://discord.gg/sagtrca) to discuss anything related to CoSpace Rescue.
