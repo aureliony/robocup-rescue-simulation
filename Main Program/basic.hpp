@@ -6,8 +6,7 @@ template<typename T1, typename T2> static inline double pythag(T1 a, T2 b){retur
 template<typename T> static inline bool inRange(T a, T b, T c){return b<=a&&a<=c;}
 static inline void setDuration(int dur){Duration=(int)round((dur-60)/60.0);}
 static inline bool percentChance(int x){return randint(1,100)<=x;}
-template<typename T1, typename T2, typename T3>
-static inline bool isWithinCoord(T1 x, T2 y, T3 range){return pythag(PositionX1-x, PositionY1-y)<=range;}
+template<typename T1, typename T2, typename T3> static inline bool isWithinCoord(T1 x, T2 y, T3 range){return pythag(PositionX1-x, PositionY1-y)<=range;}
 static inline bool isInfoLost(){return PositionX==0&&PositionY==0;}
 #define isRGBcol (loaded_objects[R]>0&&loaded_objects[G]>0&&loaded_objects[B]>0)
 
